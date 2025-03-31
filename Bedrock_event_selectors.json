@@ -1,0 +1,26 @@
+{
+  "DataResources": [],
+  "IncludeManagementEvents": true,
+  "ExcludeManagementEvents": false,
+  "AdvancedEventSelectors": [
+    {
+      "Name": "BedrockModelEvents",
+      "FieldSelectors": [
+        {
+          "Field": "eventName",
+          "Operator": "Equals",
+          "Values": [
+            "InvokeModel"
+          ]
+        },
+        {
+          "Field": "resources.ARN",
+          "Operator": "Like",
+          "Values": [
+            "arn:aws:bedrock:us-east-1::model/anthropic.claude-3-haiku-20240307-v1:*"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,12 +2,32 @@
 
 ![Wagwan London Banner](html/images/title_text_bw.png)
 
-## A Cloud-Native Conversational AI with London Cultural Flair
+## A Cloud-Native Conversational AI with a South London Cultural Flair
 
 [![AWS](https://img.shields.io/badge/AWS-Powered-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 [![Amazon Bedrock](https://img.shields.io/badge/Bedrock-Claude_3-purple?style=flat-square&logo=amazon)](https://aws.amazon.com/bedrock/)
 [![Amazon Lex](https://img.shields.io/badge/Lex-v2-blue?style=flat-square&logo=amazon)](https://aws.amazon.com/lex/)
 [![Serverless](https://img.shields.io/badge/Architecture-Serverless-green?style=flat-square&logo=serverless)](https://aws.amazon.com/serverless/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-yellow?style=flat-square&logo=python)](https://www.python.org/)
+[![AWS Lambda](https://img.shields.io/badge/Lambda-Powered-orange?style=flat-square&logo=aws-lambda)](https://aws.amazon.com/lambda/)
+[![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-lightgrey?style=flat-square&logo=github)](https://github.com/ivan-rivera-projects/wagwan-london-chatbot)
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Architecture](#architecture)
+  - [Key AWS Services Utilized](#key-aws-services-utilized)
+- [Technical Highlights](#technical-highlights)
+  - [Serverless Architecture](#serverless-architecture)
+  - [Natural Language Understanding](#natural-language-understanding)
+  - [Front-End Innovation](#front-end-innovation)
+- [Security & Compliance](#security--compliance)
+- [Performance Optimization](#performance-optimization)
+- [Outcome & Business Value](#outcome--business-value)
+- [Lessons & Insights](#lessons--insights)
+- [Future Enhancements](#future-enhancements)
+- [Contact](#contact)
 
 ## Overview
 
@@ -84,15 +104,6 @@ The application achieves exceptional performance through:
 - Optimized Lambda function execution environments
 - Efficient prompt engineering for Bedrock models
 - Stateless architecture for horizontal scaling
-
-## Development & Deployment
-
-The project implements DevOps best practices:
-
-- Infrastructure as Code (IaC)
-- CI/CD pipeline for automated deployments
-- Comprehensive testing strategy
-- Blue/green deployment capability
 
 ## Outcome & Business Value
 

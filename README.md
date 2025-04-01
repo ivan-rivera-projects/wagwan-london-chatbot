@@ -1,6 +1,6 @@
 # WAGWAN.LONDON
 
-![Wagwan London Banner](html/images/title_text.png)
+![Wagwan London Banner](html/images/title_text_bw_.png)
 
 ## A Cloud-Native Conversational AI with London Cultural Flair
 
@@ -11,9 +11,9 @@
 
 ## Overview
 
-WAGWAN.LONDON demonstrates advanced implementation of AWS cloud services to create a culturally authentic conversational AI experience. The application showcases a fully serverless architecture that leverages AWS's most cutting-edge AI/ML services.
+WAGWAN.LONDON demonstrates advanced implementation of AWS cloud services to create a culturally relevant and authentic conversational AI experience. The application showcases a fully serverless architecture that leverages AWS's most cutting-edge AI/ML services.
 
-The chatbot embodies the voice of South London youth culture with authentic dialect, slang, and conversational patterns. This project highlights my skillset in:
+The chatbot embodies the voice of South London youth culture and swagger with authentic dialect, slang, and conversational patterns. This project highlights my skillset in:
 
 - Serverless application architecture on AWS
 - Integration of advanced AWS AI/ML services

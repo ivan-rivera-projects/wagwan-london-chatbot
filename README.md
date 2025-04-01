@@ -1,6 +1,6 @@
 # WAGWAN.LONDON
 
-![Wagwan London Banner](html/images/title_text_bw_.png)
+![Wagwan London Banner](html/images/title_text_bw.png)
 
 ## A Cloud-Native Conversational AI with London Cultural Flair
 
